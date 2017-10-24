@@ -14,7 +14,7 @@ test <- subset(cuisine, Section ==2)
 #########################################
 ######### Question B ####################
 
-# We create our dataframe of preference
+## We create our dataframe of preference
 myPref = data.frame(X = 'Nicolas Tachet', Italian = 5,
                    Mexican = 4, Chinese...Cantonese = 1, Chinese....Sichuan = 1, 
                    Greek = 3, Thai = 5, Indian = 4, French = 5, Steakhouse = 4,
